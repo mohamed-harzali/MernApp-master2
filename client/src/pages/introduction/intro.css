@@ -1,0 +1,49 @@
+.home{
+    background: url("../../dataimg/back2.jpg") ;
+    min-height: 52.999rem;
+    width:1196,px ;
+    display: flex;
+    background-size: 2000px;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+.game{
+    margin-left: -800px;
+    margin-top: -1000px;
+}
+.gamer{
+    color: rgb(43, 255, 0);
+}
+
+.intro1{
+    color: rgb(255, 255, 255);
+}
+
+.intro2{
+    color: rgb(255, 255, 255);
+}
+
+.intro3{
+    color: rgb(255, 255, 255);
+}
+
+.intro4{
+     color: rgb(255, 255, 255);
+}
+
+.intro5{
+    color: rgb(255, 255, 255);
+}
+
+.intro6{
+     color: rgb(255, 255, 255);
+}
+
+.intro7{
+     color: rgb(100, 100, 100);
+}
+
+.game{
+    margin-top: 10px;
+}
